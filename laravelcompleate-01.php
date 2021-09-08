@@ -4,11 +4,23 @@ isme hum modal ke attribute ko yaani ki table ke data ko jab aap access karte ha
 iska code hum modal me likhte hai.
 //accessor
 public function getNameAttribute($value){
-     return ucFirst($value);
+     //return ucFirst($value);
+     return 'shree' $value;
 }
 
-
-
+1.what is Mutator.
+isme hum user ko na dikha kar database m data ko transform karte hai.matlab jo bhi data hai usse hum database m save kara dege.
+//mutarator modal
+public function setCityAttribute($value){
+      $this->attribute['city'] = $value. 'india';
+}
+//mutarator controller
+public function add_student(){
+$student = new Student();
+$student->name = 'rohit';
+$student->city= 'punjab';
+$student->save ();
+}
 
 
 
