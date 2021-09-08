@@ -1,3 +1,19 @@
+new learn
+1.what is access.
+isme hum modal ke attribute ko yaani ki table ke data ko jab aap access karte hai ussi wat aap transform kar sakte hai.yaani ki kisi ke first character ko capital me badalne ke lia.
+iska code hum modal me likhte hai.
+//accessor
+public function getNameAttribute($value){
+     return ucFirst($value);
+}
+
+
+
+
+
+
+
+
 Day-001
 
 what is composer
