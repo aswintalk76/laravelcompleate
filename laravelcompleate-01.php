@@ -29,6 +29,9 @@ $student->save ();
 Day-001
 
 what is composer
+
+Composer एक tool है जिसका इस्तेमाल करके PHP programming language में बने हुए project के dependencies को manage करने का कार्य करते हैं जैसे की third-party libraries को install या update करना|
+
 how to install composer
 why we need install
 shoulb be use composer or not
@@ -156,6 +159,7 @@ Route::view('/contact','/contact');
 Route::get('/{name}',function($name){
     return view('welcome,'[name->$name]);
 });
+
 go to welcome page
 {{$name}}
 anchor tag
