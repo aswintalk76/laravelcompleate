@@ -1,3 +1,24 @@
+advance question laravel ::
+
+Laravel Lifecycle 
+Dependency Injection
+Service Container
+Service Provider
+Service Container Binding
+Facades in Laravel
+Make Your Own Commands
+Tinker
+Laravel Collections
+Laravel Contracts 
+Send Mail via 4 Different Method
+Queue & Jobs
+Event & Listener 
+Notifications
+Cron Job & Task Scheduling
+Macro & Macroable Trait 
+
+
+
 question.How to disable CSRF Token in Laravel and why we have to disable it?
 app/Http/Middleware/VerifyCsrfToken.php
 
