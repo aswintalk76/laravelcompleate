@@ -16,7 +16,7 @@ Event & Listener
 Notifications
 Cron Job & Task Scheduling
 Macro & Macroable Trait 
-
+Rekationship
 
 
 question.How to disable CSRF Token in Laravel and why we have to disable it?
